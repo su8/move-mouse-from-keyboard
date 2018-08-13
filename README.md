@@ -3,8 +3,8 @@ Move the mouse pointer only by using the keyboard
 # Usage
 
 ```bash
-./mouse x 100
-./mouse y 100
+mouse x 100
+mouse y 100
 ```
 
 # Installation
@@ -16,16 +16,16 @@ $ make
 
 # Problems
 
-It doesn't work with some tiling window managers such as:
+The program doesn't work with some tiling window managers such as:
 
-- [] xmonad
-- [] dwm
-- [] openbox
+* xmonad
+* dwm
+* openbox
 
-Works on:
+It have been tested and works on:
 
 - [x] KDE
 - [x] XFCE
 - [x] GNOME2/3
 
-If you discover that it doesn't work in your tiling window manager, please submit a PR to update this README.md file.
+If you discover that it works/doesn't work in your tiling/window manager, please submit a PR to update the list.
