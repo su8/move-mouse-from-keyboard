@@ -26,6 +26,7 @@ The program doesn't work with some tiling window managers such as:
 * xmonad
 * dwm
 * openbox
+* i3wm
 
 It have been tested and works on:
 
