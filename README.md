@@ -3,8 +3,13 @@ Move the mouse pointer only by using the keyboard
 # Usage
 
 ```bash
+# To the right
 mouse x 100
 mouse y 100
+
+# To the left
+mouse x -100
+mouse y -100
 ```
 
 # Installation
